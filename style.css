@@ -1,19 +1,19 @@
 header{
-    background-color: dimgray;
+    background-color: rgb(53, 58, 64);
 };
-
 .bg-image1{
     background-image: url('./img/ba1.jpg');
-    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
-    background-repeat: no-repeat; /* Evita la repetición de la imagen */
+    background-size: cover; 
+    background-repeat: no-repeat; 
     height: 100vh
 }
-
 .bsoctubre{
-    background-color: dimgray;
-    
+    background-color: dimgray; 
 };
 
-/* .subrayado{
-    text-decoration: ;
-} */
+.trasnparente{
+    background-color: transparent;
+};
+.sinSub{
+text-decoration: none;
+};
