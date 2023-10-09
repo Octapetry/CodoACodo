@@ -1,0 +1,14 @@
+header{
+    background-color: dimgray;
+};
+
+.bg-image1{
+    background-image: url('./img/ba1.jpg');
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita la repetición de la imagen */
+    height: 100vh
+}
+
+.bsoctubre{
+    background-color: dimgray;
+};
